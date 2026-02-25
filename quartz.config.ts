@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "mirror gallery",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -23,32 +23,30 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Merriweather",
+        body: "Merriweather",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#fbf1c7",        // gruvbox light bg
+          lightgray: "#ebdbb2",    // gruvbox light1
+          gray: "#928374",         // gruvbox gray
+          darkgray: "#3c3836",     // gruvbox dark1
+          dark: "#282828",         // gruvbox dark bg
+          secondary: "#b57614",    // gruvbox yellow-dark
+          tertiary: "#427b58",     // gruvbox green-dark
+          highlight: "rgba(181, 118, 20, 0.15)",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#282828",        // gruvbox dark bg
+          lightgray: "#3c3836",    // gruvbox dark1
+          gray: "#928374",         // gruvbox gray
+          darkgray: "#bdae93",     // gruvbox light3
+          dark: "#ebdbb2",         // gruvbox light1
+          secondary: "#d79921",    // gruvbox yellow
+          tertiary: "#8ec07c",     // gruvbox aqua
+          highlight: "rgba(215, 153, 33, 0.15)",
         },
       },
     },
