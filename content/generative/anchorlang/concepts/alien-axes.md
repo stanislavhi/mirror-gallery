@@ -60,7 +60,7 @@ The shared substrate between human and alien anchors would be only the primitive
 
 ## Connections
 
-- [[anchorlang/anchor]]
-- [[anchorlang/simulation/first-contact]]
-- [[anchorlang/simulation/index]]
-- [[anchorlang/concepts/genetics-vs-subconscious]]
+- [[generative/anchorlang/anchor]]
+- [[generative/anchorlang/simulation/first-contact]]
+- [[generative/anchorlang/simulation/index]]
+- [[generative/anchorlang/concepts/genetics-vs-subconscious]]

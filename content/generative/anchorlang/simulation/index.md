@@ -70,7 +70,7 @@ The VM grammar bridges the tiers. Background state is stored in compressed gramm
 
 ## Connections
 
-- [[anchorlang/anchor]]
-- [[anchorlang/concepts/genetics-vs-subconscious]]
-- [[anchorlang/concepts/alien-axes]]
-- [[anchorlang/simulation/first-contact]]
+- [[generative/anchorlang/anchor]]
+- [[generative/anchorlang/concepts/genetics-vs-subconscious]]
+- [[generative/anchorlang/concepts/alien-axes]]
+- [[generative/anchorlang/simulation/first-contact]]

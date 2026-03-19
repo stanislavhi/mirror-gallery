@@ -70,6 +70,6 @@ The simulation needs all three layers active and distinct to produce emergent cu
 
 ## Connections
 
-- [[anchorlang/anchor]] — the space all layers operate within
-- [[anchorlang/simulation/index]] — where these layers are used
-- [[anchorlang/simulation/first-contact]] — where divergent subconsciouses create untranslatable gaps
+- [[generative/anchorlang/anchor]] — the space all layers operate within
+- [[generative/anchorlang/simulation/index]] — where these layers are used
+- [[generative/anchorlang/simulation/first-contact]] — where divergent subconsciouses create untranslatable gaps

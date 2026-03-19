@@ -61,7 +61,7 @@ Neither civilization fully understands the other. But both have a working model 
 
 ## Connections
 
-- [[anchorlang/concepts/alien-axes]]
-- [[anchorlang/simulation/index]]
-- [[anchorlang/anchor]]
-- [[anchorlang/concepts/genetics-vs-subconscious]]
+- [[generative/anchorlang/concepts/alien-axes]]
+- [[generative/anchorlang/simulation/index]]
+- [[generative/anchorlang/anchor]]
+- [[generative/anchorlang/concepts/genetics-vs-subconscious]]

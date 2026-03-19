@@ -68,6 +68,6 @@ A 400-token anchor at position 0 has more influence on model behavior than a 400
 
 ## Connections
 
-- [[anchorlang/concepts/language-as-vm]]
-- [[anchorlang/concepts/attractors-vs-instructions]]
-- [[anchorlang/anchor]]
+- [[generative/anchorlang/concepts/language-as-vm]]
+- [[generative/anchorlang/concepts/attractors-vs-instructions]]
+- [[generative/anchorlang/anchor]]

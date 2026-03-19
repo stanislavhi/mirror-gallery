@@ -49,6 +49,6 @@ Each layer narrows the field established by the previous. By the time the model 
 
 ## Connections
 
-- [[anchorlang/concepts/attractors-vs-instructions]] — the mechanism behind why this works
-- [[anchorlang/concepts/token-economics]] — the compression payoff
-- [[anchorlang/anchor]] — the frozen primitive substrate the VM operates on
+- [[generative/anchorlang/concepts/attractors-vs-instructions]] — the mechanism behind why this works
+- [[generative/anchorlang/concepts/token-economics]] — the compression payoff
+- [[generative/anchorlang/anchor]] — the frozen primitive substrate the VM operates on

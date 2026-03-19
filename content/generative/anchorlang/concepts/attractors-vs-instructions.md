@@ -61,6 +61,6 @@ The practical design: attractors for orientation and mode, natural language for 
 
 ## Connections
 
-- [[anchorlang/concepts/language-as-vm]]
-- [[anchorlang/concepts/token-economics]]
-- [[anchorlang/anchor]]
+- [[generative/anchorlang/concepts/language-as-vm]]
+- [[generative/anchorlang/concepts/token-economics]]
+- [[generative/anchorlang/anchor]]
