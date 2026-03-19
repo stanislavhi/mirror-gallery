@@ -8,4 +8,4 @@ a space for things i'm thinking about, building, and exploring.
 
 ## generative
 - [[generative/anchorlang/index|Anchorlang]]
-- [[generative/playground/index|General Problem Solving Framework]]
+- [[generative/playground/problem solving/index|General Problem Solving Framework]]
