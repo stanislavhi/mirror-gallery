@@ -1,7 +1,9 @@
 # mirror-gallery
-mirror-gallery
-# Quartz v4
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+A digital garden. Ideas in various states of formation — some seeds, some growing, some dead ends.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+🌐 [stanislavhi.github.io/mirror-gallery](https://stanislavhi.github.io/mirror-gallery)
+
+---
+
+Built with [Quartz v4](https://quartz.jzhao.xyz).
