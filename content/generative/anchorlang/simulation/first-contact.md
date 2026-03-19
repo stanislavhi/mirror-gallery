@@ -1,3 +1,8 @@
+---
+title: First Contact
+tags: [simulation, philosophy, alien-axes, anchorlang, generative]
+---
+
 # First Contact
 
 The moment two civilizations with divergent anchor configurations — or different anchor axes entirely — encounter each other.

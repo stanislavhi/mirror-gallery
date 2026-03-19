@@ -1,3 +1,7 @@
+---
+title: Language as VM
+tags: [language, llm, anchorlang, generative]
+---
 # Language as VM
 
 The core idea: a language whose utterances don't *describe* — they *execute*. The runtime is LLM inference itself.

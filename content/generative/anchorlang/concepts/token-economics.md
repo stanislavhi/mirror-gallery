@@ -1,3 +1,8 @@
+---
+title: Token Economics
+tags: [llm, compression, anchorlang, generative]
+---
+
 # Token Economics
 
 Context windows are finite. Every token has a cost. Token economics is the discipline of spending them deliberately.

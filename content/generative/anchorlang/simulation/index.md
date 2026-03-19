@@ -1,3 +1,8 @@
+---
+title: Civilization Simulation
+tags: [simulation, agents, anchorlang, generative]
+---
+
 # Civilization Simulation
 
 A multi-agent simulation where agents are not task-executors — they are *beings*. They develop, reproduce, form cultures, and diverge into civilizations over time.

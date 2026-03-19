@@ -1,3 +1,8 @@
+---
+title: Genetics vs Subconscious vs Archetype
+tags: [identity, simulation, anchorlang, generative]
+---
+
 # Genetics vs Subconscious vs Archetype
 
 Three distinct layers of agent identity. Frequently conflated. Must be kept separate for the simulation to work correctly.

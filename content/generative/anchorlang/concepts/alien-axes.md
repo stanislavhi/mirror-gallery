@@ -1,3 +1,7 @@
+---
+title: Alien Axes
+tags: [simulation, philosophy, anchorlang, generative]
+---
 # Alien Axes
 
 The seven tension axes in the [[anchorlang/anchor]] are not universal. They are human.

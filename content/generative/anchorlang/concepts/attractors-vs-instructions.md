@@ -1,3 +1,7 @@
+---
+title: Attractors vs Instructions
+tags: [llm, prompting, anchorlang, generative]
+---
 # Attractors vs Instructions
 
 Two fundamentally different ways to get behavior from a language model.
