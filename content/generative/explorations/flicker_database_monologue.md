@@ -19,7 +19,7 @@ What started as a simple fix for a browser storage error transformed into someth
 
 ### Stanislav (The Human)
 
-Stanislav is a Senior Backend Engineer with expertise in distributed systems, currently based in Spain but targeting relocation to Zürich. He describes himself as having a 135 IQ, identifies as an INTJ personality type (analytical, conceptual thinking), and has deep interests in physics and philosophy beyond his engineering work.
+Stanislav is a Senior Backend Engineer with expertise in distributed systems.
 
 Importantly for this conversation, Stanislav has recurring ideas that "won't go away" - intuitions about chaos theory, emergence, and the nature of intelligence that he hasn't formally studied but keeps returning to. He describes these as ideas that "feel true" without being able to fully articulate or prove them. This pattern of having coherent insights without formal training became a central theme in the conversation.
 
